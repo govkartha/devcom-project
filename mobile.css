@@ -127,8 +127,11 @@
         color: blue;
     }
     .quotes {
-        left: 30%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
         font-size: 20;
         color: blue;
+        text-align: center;
     }
 }
